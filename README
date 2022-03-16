@@ -1,0 +1,3 @@
+HEvent-Driven Chat Server
+chatServer.c:The progrem is a simple TCP chat server that read text from clients that connected to the server at the same time using the function "select" and when one of the clients writes to the server the server writes the same thing to all of the clients.
+
